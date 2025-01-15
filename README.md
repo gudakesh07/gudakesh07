@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gudakesh  
+- 👋 Hi, I’m Ritu Raj
 - 👀 I’m passionate about full-stack development.  
 - 🌱 I’m currently diving deeper into AI.
 - 💞 I’m looking to collaborate on impactful projects that combine cutting-edge tech with real-world utility.  
