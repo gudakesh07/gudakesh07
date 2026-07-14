@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Ritu Raj
-- 👀 I’m passionate about full-stack development.  
-- 🌱 I’m currently diving deeper into AI.
-- 💞 I’m looking to collaborate on impactful projects that combine cutting-edge tech with real-world utility.  
-- 📫 Reach me at riturajgudakesh@gmail.com
-- 😄 Pronouns: He/Him  
-- 💡 Always hunting for the next big impactful idea
+# Ritu Raj
+ 
+Full-stack developer, currently deepening my grip on AI/ML.
+ 
+I build things end to end — right now that's [CampusFlow](#), an LMS designed to actually be usable.
+ 
+Open to collaborating on projects that are technically interesting *and* actually useful to someone.
+ 
+**Reach me:** hello@gudakesh.me
+ 
