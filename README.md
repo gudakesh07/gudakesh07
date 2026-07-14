@@ -6,7 +6,7 @@ I build things end to end — right now that's [CampusFlow](#), an LMS designed 
  
 Open to collaborating on projects that are technically interesting *and* actually useful to someone.
 
-**Want to know more!?:** gudakesh.me
+**Want to know more!?:** [gudakesh.me](https://gudakesh.me/)
  
 **Reach me:** hello@gudakesh.me
  
